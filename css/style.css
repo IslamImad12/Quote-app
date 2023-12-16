@@ -1,0 +1,29 @@
+/* General classes*/
+/* .w-fit {
+    width: fit-content;
+}
+.max-w-500 {
+    max-width: 500px;
+}
+.text-gray {
+    color: gray;
+}
+@media screen and (min-width:992px) {
+    .w-lg-75 {
+        width: 75%;
+    }
+}
+
+header {
+    height: calc(100vh - 56px);
+} */
+button {
+    font-size: 10px;
+    padding: 25px 55px;
+    background-color: blue;
+    color: white;
+}
+button:hover {
+    background-color: green;
+    transition: 0.3s;
+}
